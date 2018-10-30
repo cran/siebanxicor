@@ -1,0 +1,14 @@
+b241d4653b4a257a2ed8c422843ace26 *DESCRIPTION
+f5710a66705d8d7c55e3b884a51f9ce4 *LICENSE
+03cfe53d1345aa3ca3146c5f04ea7ae5 *NAMESPACE
+3b6a3d4f61fa728f14ca7827aa0baf54 *R/series.R
+4337d04559381649aceaf2d3890c39bf *R/siebanxicor.R
+ae2a8bfc62ec65b9082ae4e592f81c0f *R/util.R
+bc7150f282eaa3f3f3b01e12591128f5 *R/utilSeries.R
+31d8a5c57f88f8986dc79483313da7dc *README.md
+643e16182a5e6ac3d9245154d2c106eb *man/getSerieDataFrame.Rd
+822904c7a16fe0c147a5c4e11a0e35ae *man/getSeriesCurrentValue.Rd
+e03abf902cf61786d7726854b4feb58d *man/getSeriesData.Rd
+6ac3e0da8f74a8eda5f4642eeb94c884 *man/getSeriesMetadata.Rd
+ed5a6dbe68b72ae49d385398bb80d7f4 *man/setToken.Rd
+8c85017047cd513070d20a5341ef229e *man/siebanxicor.Rd

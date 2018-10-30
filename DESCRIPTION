@@ -1,0 +1,17 @@
+Package: siebanxicor
+Type: Package
+Title: Query Data Series from Bank of Mexico
+Version: 1.0.0
+Author: DGIE - Banco de México
+Maintainer: Noé Palmerin  <sie@banxico.org.mx>
+Description: Allows to retrieve time series of all indicators available in the Bank of Mexico's Economic Information System (<http://www.banxico.org.mx/SieInternet/>).
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.0
+Imports: httr, jsonlite
+Suggests: knitr, rmarkdown
+NeedsCompilation: no
+Packaged: 2018-10-29 19:23:46 UTC; D12465
+Repository: CRAN
+Date/Publication: 2018-10-30 16:40:02 UTC
